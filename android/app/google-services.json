@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "761350834689",
+    "firebase_url": "https://taxibookingpuna-default-rtdb.firebaseio.com",
+    "project_id": "taxibookingpuna",
+    "storage_bucket": "taxibookingpuna.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761350834689:android:fca017accdceb67b044e00",
+        "android_client_info": {
+          "package_name": "com.royyalecars.application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdct76m7O7Rttg5gadnr29wkXEJKZkZLc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761350834689:android:de684777985cb47d044e00",
+        "android_client_info": {
+          "package_name": "com.taxi.booking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdct76m7O7Rttg5gadnr29wkXEJKZkZLc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761350834689:android:d65b3de205169784044e00",
+        "android_client_info": {
+          "package_name": "com.vyaparify.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdct76m7O7Rttg5gadnr29wkXEJKZkZLc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
